@@ -1,6 +1,5 @@
 👋 <strong>Howdy, I'm Jaden</strong><br>
-💡 Studying Computer Science @ Georgia Tech<br>
-💻 Working on fast food stuff<br>
+💻 Working on letting restaurant owner's manage channels and hours easier @ McDonald's<br>
 
 Here's what I've been listening to lately:<br>
 ![What I've been listening to lately](https://spotify-recently-played-readme.vercel.app/api?user=jadenbanze&unique={true|1|on|yes})
